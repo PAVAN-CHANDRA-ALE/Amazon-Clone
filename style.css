@@ -1,10 +1,10 @@
-*{
+ *{                                                                
     margin:0px;
     padding : 0px ;
     font-family: Arial;
     box-sizing: border-box;   /*note  */
 }
-.navbar{
+.navbar{                                                                 /*  Pavan Chandra Ale  */
     height: 60px;
     background-color: rgb(62, 62, 229);
     color : white ;
@@ -56,7 +56,7 @@
     align-items: center;
 }
 /* box3 */
-.nav-search{
+.nav-search{                                                                         /*  Pavan Chandra Ale  */
     display: flex;
     justify-content: space-evenly;
     background-color: pink;
@@ -129,7 +129,7 @@ span{
     font-weight: 700;
 }
  /* Hers Section */
- .hero-section
+ .hero-section                                                                                     /*  Pavan Chandra Ale  */
  {
     background-image: url("./images/hero_image.jpg");
     height: 350px;
@@ -189,7 +189,7 @@ span{
     overflow: scroll;  
     position: relative;
 }
-.DealsUnderContainer{
+.DealsUnderContainer{                                                                                             /*  Pavan Chandra Ale  */
     display: flex; 
     position: absolute;
     top:40px;
@@ -234,7 +234,7 @@ padding: 5px;
     color:#007185  ;
 }
 /* footer */
-.backtoTop{
+.backtoTop{                                                                                                  /*  Pavan Chandra Ale  */
     background-color: #7e7ed9;
     height: 40px;
     text-align: center;
@@ -267,7 +267,7 @@ footer table td{
     padding: 10px;
     font-size: .9rem;
 }
-.footer2{
+.footer2{                                                                                                        /*  Pavan Chandra Ale  */
     background-color: #57579d;
     height: 60px;
     color: white;
